@@ -1,0 +1,41 @@
+.LoginSignUpPage{
+    width: 20rem;
+    height: 20rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+
+.LoginSignUpPage .name{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.LoginSignUpPage .phone{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.LoginSignUpPage .street{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.LoginSignUpPage .city{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.LoginSignUpPage .country{
+    text-align: center;
+    padding: 0.5rem;
+}
+.LoginSignUpPage .pincode{
+    text-align: center;
+    padding: 0.5rem;
+}
+
